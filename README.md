@@ -1,4 +1,20 @@
-### Hi there 👋
+## whoami
+x-Amazon, machine-learning enthusiast 
+
+My career has been focused on backend development / infrastructure. 
+While my free time has been focused on machine learning and AI.
+
+Official knowledge ranking
+- Go
+- Python
+- JS
+- C
+- Java
+- Whatever is needed to get the job done
+
+🔭 Actively looking for a new position so feel free to reach out 
+
+📫 diogodacruz.dev@gmail.com
 
 <!--
 **dc-dc-dc/dc-dc-dc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
